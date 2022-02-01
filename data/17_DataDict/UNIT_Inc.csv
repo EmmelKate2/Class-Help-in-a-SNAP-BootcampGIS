@@ -1,0 +1,29 @@
+Table 1
+
+FSCONT                    C       Countable unit income from contributions
+FSCSUPRT                  C       Countable unit child support payment income
+FSDEEM                    C       Countable unit deemed income
+FSDIVER                   C       Countable unit State diversion payments
+FSEARN                    C       Countable unit earned income
+FSEDLOAN                  C       Countable unit income from educational grants and loans
+FSEITC                    C       Countable unit income from earned income tax credit
+FSENERGY                  C       Countable unit energy assistance income
+FSFOSTER                  C       Countable unit foster care income
+FSGA                      C       Countable unit general assistance benefits
+FSGRINC                   C       Final gross countable unit income
+FSNETINC                  C       Final net countable unit income
+FSOTHERN                  C       Countable unit other earned income
+FSOTHGOV                  C       Countable unit income from other government benefits
+FSOTHUN                   C       Countable unit other unearned income
+FSSLFEMP                  C       Countable unit self-employment income
+FSSOCSEC                  C       Countable unit Social Security income
+FSSSI                     C       Countable unit SSI benefits
+FSTANF                    C       Countable unit TANF payments
+FSUNEARN                  C       Countable unit unearned income
+FSUNEMP                   C       Countable unit unemployment compensation benefits
+FSVET                     C       Countable unit veterans’ benefits
+FSWAGES                   C       Countable unit wages and salaries
+FSWCOMP                   C       Countable unit workers’ compensation benefits
+FSWGESUP                  C       Countable unit wage supplementation income
+RAWGROSS                  R       Reported gross countable unit income
+RAWNET                    R       Reported net countable unit income

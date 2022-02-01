@@ -1,0 +1,33 @@
+Table 1
+
+AK_AREA                   C        Alaska region (not retained on public use file)
+CERTHHSZ                  R        Certified unit size
+COMPOSITION               C        Unit composition
+COUNTYCD                  C        FIPS code for county (not retained on public use file)
+CTPRHH                    C        Number of people in household
+FSDIS                     C        Indicator of non-elderly individuals with disabilities in unit
+FSELDER                   C        Indicator of elderly individuals in unit
+FSKID                     C        Indicator of children in unit
+FSNDIS                    C        Number of non-elderly individuals with disabilities in unit
+FSNDISCA                  C        Number of adults age 18 to 49 without disabilities in childless
+units
+FSNELDER                   C       Number of elderly individuals in unit
+FSNGMOM                    C       Indicator of single-female-headed unit
+FSNK0T4                    C       Number of preschool-age children in unit
+FSNK5T17                   C       Number of school-age children in unit
+FSNKID                     C       Number of children in unit
+FSNONCIT                   C       Number of noncitizens in unit
+FSUSIZE                   C       Constructed certified unit size
+FYWGT                     C       Weight used for full-year calculations
+HWGT                      C       Monthly sample weight
+NONCIT_HEAD               C       Unit head citizenship indicator
+RAWHSIZE                  R       Reported number of people in household
+REGION                    C       Constructed census region code
+REGIONCD                  R       FNS region code
+STATE                     R       FIPS code for State or territory
+STATENAME                 C       State or territory
+STRATUM                   R       Stratum identification
+TANF_IND                  C       Indicator of TANF receipt for unit
+TPOV                      C       Gross income/poverty level ratio
+URBRUR                    C       Urban/rural indicator (not retained on public use file)
+WRK_POOR                  C       Indicator of working poor unit

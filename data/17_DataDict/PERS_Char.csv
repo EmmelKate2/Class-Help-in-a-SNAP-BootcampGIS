@@ -1,0 +1,19 @@
+Table 1
+
+ABWDSTi                   R       ABAWD status
+AGEi                      R       Age
+CTZNi                     R       Citizenship status
+DISi                      C       Person-level disability indicator
+DPCOSTi                   R       Reported dependent care cost
+EMPRGi                    R       SNAP Employment and Training program status
+EMPSTAi                   R       Employment status – type
+EMPSTBi                   R       Employment status – amount
+FSAFILi                   R       SNAP case affiliation
+FSUNi                     C       Position of head of SNAP unit
+NDISCAi                   C       Adult age 18 to 49 without disabilities in childless unit status
+RACETHi                   R       Race/ethnicity
+RELi                      R       Relationship to head of household
+SEXi                      R       Sex
+WORKi                     C       Person-level working indicator
+WRKREGi                   R       Work registration status
+YRSEDi                    R       Highest educational level completed

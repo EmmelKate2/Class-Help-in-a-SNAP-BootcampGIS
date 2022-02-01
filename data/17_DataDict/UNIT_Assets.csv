@@ -1,0 +1,13 @@
+Table 1
+
+FSASSET                   C       Total countable assets under State rules
+FSVEHAST                  C       Countable non-excluded vehicles’ value under State rules
+LIQRESOR                  C       Countable liquid assets under State rules
+OTHNLRES                  C       Countable other nonliquid assets under State rules
+RAWLQRES                  R       Reported liquid assets
+RAWOTRES                  R       Reported other nonliquid assets
+RAWRPROP                  R       Reported real property
+RAWVHAST                  R       Reported non-excluded vehicles’ value
+REALPROP                  C       Countable real property under State rules
+VEHICLEA                  R       Reported category for first vehicle
+VEHICLEB                  R       Reported category for second vehicle
